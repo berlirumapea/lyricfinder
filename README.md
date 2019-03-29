@@ -1,6 +1,6 @@
 # Lyric Finder App
 
-This app is created when I was learning basic React Context API from [Traversi Media](https://www.youtube.com/watch?v=NDEt0KdDbhk). Then I rewrite it to use some new React capabilities like hooks and library that helps me to work on immutable state tree, [Immer](https://github.com/mweststrate/immer).
+This app is created when I was learning basic React Context API from [Traversi Media](https://www.youtube.com/watch?v=NDEt0KdDbhk). Then I rewrite it to use some of the new React capabilities for function component like hooks and library that helps me to work on immutable state tree, [Immer](https://github.com/mweststrate/immer).
 
 This lyric finder web app is using:
 
